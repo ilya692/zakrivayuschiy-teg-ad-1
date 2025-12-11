@@ -1,1 +1,1 @@
-https://github.com/ilya692/zakrivayuschiy-teg-ad-1.git
+https://github.com/yandex-praktikum/zakrivayuschiy-teg-ad.git
